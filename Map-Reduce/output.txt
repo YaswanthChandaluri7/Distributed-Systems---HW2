@@ -1,0 +1,69 @@
+==========================================
+SLURM_JOB_ID = 42976
+SLURM_NODELIST = node05
+SLURM_JOB_GPUS = 
+==========================================
+Job running on 24 cores.
+Compiling q2.cpp...
+Running MPI program...
+
+========== FINAL RESULTS ==========
+Global_Count	4-Cycles	64391
+Per-Vertex_Count	56	4446
+Per-Vertex_Count	41	5878
+Per-Vertex_Count	9	5465
+Per-Vertex_Count	45	6501
+Per-Vertex_Count	13	5375
+Per-Vertex_Count	1	5541
+Per-Vertex_Count	46	4510
+Per-Vertex_Count	16	4540
+Per-Vertex_Count	2	4056
+Per-Vertex_Count	48	5436
+Per-Vertex_Count	24	3231
+Per-Vertex_Count	6	5525
+Per-Vertex_Count	49	2301
+Per-Vertex_Count	29	3258
+Per-Vertex_Count	7	5509
+Per-Vertex_Count	52	4856
+Per-Vertex_Count	50	4527
+Per-Vertex_Count	11	4334
+Per-Vertex_Count	53	6577
+Per-Vertex_Count	5	5367
+Per-Vertex_Count	14	3145
+Per-Vertex_Count	55	5387
+Per-Vertex_Count	42	4309
+Per-Vertex_Count	15	3219
+Per-Vertex_Count	10	4374
+Per-Vertex_Count	43	2480
+Per-Vertex_Count	17	5530
+Per-Vertex_Count	12	5086
+Per-Vertex_Count	18	3749
+Per-Vertex_Count	20	5073
+Per-Vertex_Count	19	5345
+Per-Vertex_Count	33	3494
+Per-Vertex_Count	21	2389
+Per-Vertex_Count	36	4496
+Per-Vertex_Count	22	5257
+Per-Vertex_Count	37	3515
+Per-Vertex_Count	23	4699
+Per-Vertex_Count	40	4390
+Per-Vertex_Count	26	4204
+Per-Vertex_Count	44	3083
+Per-Vertex_Count	27	5084
+Per-Vertex_Count	47	5092
+Per-Vertex_Count	28	6089
+Per-Vertex_Count	54	6514
+Per-Vertex_Count	30	5403
+Per-Vertex_Count	3	4083
+Per-Vertex_Count	31	4346
+Per-Vertex_Count	4	4249
+Per-Vertex_Count	32	5101
+Per-Vertex_Count	8	3647
+Per-Vertex_Count	34	4076
+Per-Vertex_Count	25	3548
+Per-Vertex_Count	35	5483
+Per-Vertex_Count	38	6551
+Per-Vertex_Count	39	3856
+Per-Vertex_Count	51	3985
+===================================
+Job finished.

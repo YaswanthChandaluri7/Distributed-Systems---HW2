@@ -1,0 +1,9 @@
+==========================================
+SLURM_JOB_ID = 42891
+SLURM_NODELIST = node02
+SLURM_JOB_GPUS = 
+==========================================
+Job running on 24 cores.
+Compiling q2.cpp...
+Running MPI program...
+Job finished.
